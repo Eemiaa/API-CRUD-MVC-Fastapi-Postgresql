@@ -1,12 +1,12 @@
-# API-Medical-Appointment-MVC-FastAPI
-Exemplo de FastAPI com MCV
+# API-CRUD-MVC-FastApi-Postgresql
+Exemplo de FastAPI com MCV. Autenticação e conexão com a base de dados
 
 # Requisitos #
 * python ^3.8
 
 # Clonar repositório #
 ```
-git clone https://github.com/Eemiaa/server.git
+git clone https://github.com/Eemiaa/API-CRUD-MVC-Fastapi-Postgresql.git
 ```
 # Iniciando o Mongodb com o docker #
 Instalar o [docker engine](https://docs.docker.com/engine/install/).
